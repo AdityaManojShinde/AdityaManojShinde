@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a knack for buildi
 
 
 
-## 📫 Get in Touch  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beaming%20Face%20with%20Smiling%20Eyes.png" alt="Beaming Face with Smiling Eyes" width="30" height="30" />
+# 📫 Get in Touch  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beaming%20Face%20with%20Smiling%20Eyes.png" alt="Beaming Face with Smiling Eyes" width="30" height="30" />
 
 - **Email**: [aditya.manoj.shinde@gmail.com](mailto:adityashinde@example.com)
 - **LinkedIn**: [Aditya Manoj Shinde](https://www.linkedin.com/in/aditya-shinde-085b1b287/)
