@@ -1,6 +1,6 @@
 ![Banner Image](./banner.png)
 
-# 👋 Hello, I'm Aditya Manoj Shinde!
+# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hello, I'm Aditya Manoj Shinde!
 
 ### 🚀 Flutter | Web Developer | Python Enthusiast
 
