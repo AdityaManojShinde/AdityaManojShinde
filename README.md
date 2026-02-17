@@ -106,7 +106,7 @@ me.say_hi()
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AdityaManojShinde&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00fff7&icon_color=7928ca&text_color=ffffff"/>
+<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AdityaManojShinde&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00fff7&icon_color=7928ca&text_color=ffffff"/> -->
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaManojShinde&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00fff7&text_color=ffffff"/>
 
 </div>
@@ -120,16 +120,6 @@ me.say_hi()
 <div align="center">
 
 [![Aditya's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AdityaManojShinde&bg_color=0d1117&color=00fff7&line=7928ca&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=AdityaManojShinde&theme=tokyonight&no-frame=true&row=1&column=7&margin-h=5&margin-w=5)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
