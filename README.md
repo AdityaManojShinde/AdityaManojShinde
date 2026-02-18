@@ -97,8 +97,8 @@ me.say_hi()
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaManojShinde&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00fff7&text_color=ffffff"/>
-
+<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaManojShinde&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00fff7&text_color=ffffff"/> -->
+<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AdityaManojShinde&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00fff7&text_color=ffffff"/>
 </div>
 
 <div align="center">
