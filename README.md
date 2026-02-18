@@ -1,12 +1,3 @@
-<!--
-██████╗ ███████╗ █████╗ ██████╗  ██████╗  █████╗ ██╗
-██╔══██╗██╔════╝██╔══██╗██╔══██╗██╔════╝ ██╔══██╗██║
-██████╔╝█████╗  ███████║██║  ██║██║  ███╗███████║██║
-██╔══██╗██╔══╝  ██╔══██║██║  ██║██║   ██║██╔══██║██║
-██║  ██║███████╗██║  ██║██████╔╝╚██████╔╝██║  ██║███████╗
-╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═════╝  ╚═════╝ ╚═╝  ╚═╝╚══════╝
--->
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00fff7,100:7928ca&height=200&section=header&text=Aditya%20Manoj%20Shinde&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Dev%20%7C%20AI%2FML%20Engineer%20%7C%20Python%20Architect&descSize=18&descAlignY=60&animation=fadeIn" alt="header"/>
@@ -17,7 +8,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FFF7&background=0D111700&center=true&vCenter=true&multiline=false&width=600&height=60&lines=Hey+there!+I'm+Aditya+%F0%9F%91%8B;Full+Stack+Web+Developer+%F0%9F%8C%90;Python+%26+FastAPI+Engineer+%F0%9F%90%8D;AI+%2F+ML+Enthusiast+with+TensorFlow+%F0%9F%A4%96;Building+things+that+matter+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=000000&background=0D111700&center=true&vCenter=true&multiline=false&width=600&height=60&lines=Hey+there!+I'm+Aditya+%F0%9F%91%8B;Full+Stack+Web+Developer+%F0%9F%8C%90;Python+%26+FastAPI+Engineer+%F0%9F%90%8D;AI+%2F+ML+Enthusiast+with+TensorFlow+%F0%9F%A4%96;Building+things+that+matter+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
@@ -149,7 +140,5 @@ me.say_hi()
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7928ca,50:00fff7,100:0d1117&height=120&section=footer" alt="footer"/>
-
-<img src="https://komarev.com/ghpvc/?username=AdityaShinde13&color=00fff7&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/>
 
 </div>
